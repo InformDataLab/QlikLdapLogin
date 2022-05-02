@@ -44,4 +44,5 @@ In the Qlik Management Console you have to provide a new virtual proxy. You got 
  - Prefix: customVirtualProxy (see Service Configuration Variables)
  - Authentication module redirect URI: Here you got to provide the address of this service (https://service:9000)
  - Host allow list: Register this service as an allowed host (service:9000)
- - Under "Associated items", click onto "Proxies" and register the Central Node Proxy
+ - Under "Associated items", click onto "Proxies" and register the Central Node Proxy.
+ 
